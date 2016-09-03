@@ -1,8 +1,8 @@
 # Basic
 title: mesen
 subtitle:
-welcome_message: <a href="https://github.com/louis-ly" target="_blank"></a>
-description: Louis的iOS开发小站
+welcome_message: <a href="https://github.com/Y-donkey" target="_blank"></a>
+description: mesen's blog
 creator: <a href="http://onev.cat">@onevcat</a>
 
 url: "http://Y-donkey.github.io.com"
@@ -41,10 +41,10 @@ comment:
 # Social
 social:
     weibo: louisCoder
-    github: louis-ly
+    github: Y-donkey
     twitter: louisCoder
     gplus: 114566653125205042673
-    mail: 396868934@qq.com
+    mail: 634075573@qq.com
 
 # Google Analytics
 ga:

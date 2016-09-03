@@ -35,8 +35,8 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: louis-ly
-    duoshuo: louis-ly
+    # disqus: louis-ly
+    duoshuo: Y-donkey
     
 # Social
 social:

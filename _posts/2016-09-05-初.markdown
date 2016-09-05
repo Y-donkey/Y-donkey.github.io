@@ -6,6 +6,7 @@ categories:
 tags: information
 
 ---
+
 ###Hi
 
 i'm mesen ,majoring in software engineering in NWPU.
@@ -13,6 +14,7 @@ It's really glad that i can share my ideas to you in my blog.
 
 ####contact me:
 >github:http://https://github.com/Y-donkey
-email: 634075573@qq.com
+
+>email: 634075573@qq.com
 
 ####if there's any question,please write them down on the message board ↓↓↓

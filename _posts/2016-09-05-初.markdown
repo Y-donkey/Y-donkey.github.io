@@ -7,10 +7,9 @@ tags: information
 
 ---
 
-##Hi
+##Hi 
 
-   i'm mesen ,majoring in software engineering in NWPU.
-  It's really glad that i can share my ideas to you in my blog.
+i'm mesen ,majoring in software engineering in NWPU.It's really glad that i can share my ideas to you in my blog.
 
 ####contact me:
 >github:http://github.com/Y-donkey

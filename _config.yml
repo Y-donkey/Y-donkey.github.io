@@ -6,7 +6,7 @@ markdown: redcarpet
 author: 
   name: Anya Lin
   email: lay.1010@hotmail.com
-  link: http://painterlin.com
+  link: http://Y-donkey.github.io
   weibo: http://weibo.com/orangeissweet
   github: http://github.com/lay1010
   music: http://site.douban.com/linanya
@@ -15,7 +15,7 @@ author:
 # 站点信息
 title: 林安亚的博客
 description: My personal blog
-url: http://painterlin.com
+url: http://Y-donkey.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon

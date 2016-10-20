@@ -4,16 +4,16 @@ markdown: redcarpet
 
 # 作者信息
 author: 
-  name: Anya Lin
-  email: lay.1010@hotmail.com
+  name: mesen
+  email: 18829587948@163.com
   link: http://Y-donkey.github.io
   weibo: http://weibo.com/orangeissweet
   github: http://github.com/Y-donkey
-  music: http://site.douban.com/linanya
-  linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
+  # music: http://site.douban.com/linanya
+  # linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
 
 # 站点信息
-title: haha的博客
+title: mesen's blog
 description: My personal blog
 url: http://Y-donkey.github.io
 rss_url: http://Y-donkey.github.io
@@ -29,10 +29,10 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: painterlin
+  #shortname: painterlin
 
 # 主题设置，自动激活某个标签
-active: 读书
+active: 算法
 
 # 首页除了最新文章外显示分类
 cates: 

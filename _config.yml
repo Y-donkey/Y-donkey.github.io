@@ -37,7 +37,7 @@ active: Algorithm
 # 首页除了最新文章外显示分类
 cates: 
   - Algorithm
-  - 瞎捣鼓
+  - M L
 
 # 中文本地化
 locals:

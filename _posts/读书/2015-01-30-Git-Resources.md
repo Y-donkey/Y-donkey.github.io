@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Git常用命令速查表
+title: Git常用命令速查表啊
 category: 技术
 tags: Git
 keywords: 

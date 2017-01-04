@@ -36,8 +36,8 @@ active: Algorithm
 
 # 首页除了最新文章外显示分类
 cates: 
-  - Algorithm
-  - M L
+  - 算法
+  - ML&DL
 
 # 中文本地化
 locals:
